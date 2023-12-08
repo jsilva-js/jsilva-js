@@ -15,7 +15,7 @@ Sou apaixonado pelo desenolvimento Front-End<br> e tenho experiências com Desig
 
 <h3 align="left">Conecte-se comigo</h3>
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=1282A2&color:FFF)](https://www.linkedin.com/in/jefesilva/)
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=1282A2&color:FFF)](mailto:contato.jefesilva@outlook.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=1282A2&color:FFF)](https://www.linkedin.com/in/jefesilva/)
 [![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=1282A2&color:FFF)](https://www.instagram.com/jefews/)
 
