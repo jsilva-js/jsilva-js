@@ -2,8 +2,8 @@
 
 # Boas vindas ao meu perfil
 
-Meu nome é Jefferson Silva e sou Estudante de Tecnologia da Informação na Universidade Federal Rural do Semiárido (UFERSA).
-Estou atualmente em processo de construção de um portfólio, demonstrando minha jornada e minhas capacidades.
+Eu me chamo Jefferson Silva,<br> e atualmente estou cursando Tecnologia da Informação<br> pela Universidade Federal Rural do Semiárido (UFERSA).<br>
+Sou apaixonado pelo desenolvimento Front-End<br> e tenho experiências com Design UX/UI.<br> Estou atualmente em processo de construção de um portfólio,<br> demonstrando minha jornada e minhas capacidades.
 
 <h3 align="left">Habilidades</h3>
 
