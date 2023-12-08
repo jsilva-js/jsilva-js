@@ -1,6 +1,6 @@
-<img align="right" alt="Developer vector created by storyset - www.freepik.com" height="380" src="https://user-images.githubusercontent.com/146891396/272592917-efb5fae7-f118-433c-95f9-cb25d755a595.png">
+<img align="right" alt="DCode typing Cartoon Illustrations - by storyset.com" height="440" src="https://github.com/jefesilva1/jefesilva1/assets/146891396/3ff2a50f-d6fe-4a69-80aa-f7d7f0b39fed">
 
-# Boas vindas ao meu perfil 😁
+# Boas vindas ao meu perfil
 
 Meu nome é Jefferson Silva e sou Estudante de Tecnologia da Informação na Universidade Federal Rural do Semiárido (UFERSA).
 Estou atualmente em processo de construção de um portfólio, demonstrando minha jornada e minhas capacidades.
