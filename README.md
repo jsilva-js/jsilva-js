@@ -1,4 +1,4 @@
-<img align="right" alt="DCode typing Cartoon Illustrations - by storyset.com" height="440" src="https://github.com/jefesilva1/jefesilva1/assets/146891396/3ff2a50f-d6fe-4a69-80aa-f7d7f0b39fed">
+<img align="right" alt="DCode typing Cartoon Illustrations - by storyset.com" height="440" src="https://github.com/jefesilva1/jefesilva1/assets/146891396/537a56d3-b39a-4d4a-991b-1497a621a06e">
 
 # Boas vindas ao meu perfil
 
