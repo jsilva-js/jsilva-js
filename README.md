@@ -11,12 +11,10 @@ Sou apaixonado pelo desenolvimento Front-End e tenho experiências com Design UX
 [![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react&logoColor=1282A2)](https://reactjs.org/)
 [![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python&logoColor=1282A2)](https://www.python.org/)
 
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=jefesilva1&layout=compact&bg_color=000&border_color=1282A2&title_color=1282A2&text_color=FFF)
+
 <h3 align="left">Conecte-se comigo</h3>
 
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=1282A2&color:FFF)](mailto:contato.jefesilva@outlook.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=1282A2&color:FFF)](https://www.linkedin.com/in/jefesilva/)
 [![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=1282A2&color:FFF)](https://www.instagram.com/jefews/)
-
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=jefesilva1&layout=compact&bg_color=000&border_color=1282A2&title_color=1282A2&text_color=FFF)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jefesilva1&theme=transparent&bg_color=000&border_color=1282A2&show_icons=true&icon_color=1282A2&title_color=1282A2&text_color=FFF)
