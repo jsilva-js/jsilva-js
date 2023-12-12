@@ -10,8 +10,6 @@ Sou apaixonado pelo desenolvimento Front-End e tenho experiências com Design UX
 [![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5&logoColor=1282A2)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=1282A2&color=000)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react&logoColor=1282A2)](https://reactjs.org/)
-![Figma](https://img.shields.io/badge/Figma-000?style=for-the-badge&logo=figma&logoColor=1282A2)
-
 
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=jefesilva1&layout=compact&bg_color=000&border_color=1282A2&title_color=1282A2&text_color=FFF)
 
