@@ -8,9 +8,3 @@ Sou apaixonado pelo desenolvimento Front-End e tenho experiências com Design UX
 [![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5&logoColor=1282A2)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=1282A2&color=000)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react&logoColor=1282A2)](https://reactjs.org/)
-
-<h3 align="left">Conecte-se comigo</h3>
-
-[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=1282A2&color:FFF)](mailto:contato.jefesilva@outlook.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=1282A2&color:FFF)](https://www.linkedin.com/in/jefesilva/)
-[![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=1282A2&color:FFF)](https://www.instagram.com/jefews/)
