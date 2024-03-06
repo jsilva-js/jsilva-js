@@ -7,5 +7,3 @@ Olá, me chamo Jefferson e atualmente estou cursando Tecnologia da Informação 
 ![CSS3](https://img.shields.io/badge/css3-%23292F36.svg?style=for-the-badge&logo=css3&logoColor=%231572B6)
 ![React](https://img.shields.io/badge/react-%23292F36.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![NodeJS](https://img.shields.io/badge/node.js-%23292F36?style=for-the-badge&logo=node.js&logoColor=6DA55F)
-
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=jsilva-js&layout=compact&bg_color=292F36&border_color=292F36&title_color=FFF&text_color=FFF)
