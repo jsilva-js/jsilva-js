@@ -1,6 +1,6 @@
 ## Boas-vindas ao meu perfil
 
-Olá, me chamo Jefferson. Atualmente estou cursando Tecnologia da Informação pela Universidade Federal Rural do Semiárido (UFERSA). Sou apaixonado por desenvolvimento Front-End e estou em processo de construção de um portfólio, onde pretendo demonstrar minhas habilidades.
+Olá, me chamo Jefferson. Atualmente estou cursando Tecnologia da Informação pela Universidade Federal Rural do Semi-Árido (UFERSA). Sou apaixonado por desenvolvimento Front-End e estou em processo de construção de um portfólio, onde pretendo demonstrar minhas habilidades.
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23292F36.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![HTML5](https://img.shields.io/badge/html5-%23292F36.svg?style=for-the-badge&logo=html5&logoColor=%23E34F26)
